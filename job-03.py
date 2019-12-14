@@ -67,9 +67,19 @@ while count!=-1:
     print('login count %s'%count)
     if user==username and psd==password:
         print('ok')
+        break
     else:
         count-=1
-
+    if count ==-1:
+        choice=input('plaese N,Y-->')
+        if choice =='N':
+            break
+        elif choice=='Y':
+            count=2
+            continue
+        else:
+            print('GG')
+            break
 #ACSLL   1字节
 #UNICODE 4字节
 #UTF-8   1-4字节

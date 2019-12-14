@@ -154,4 +154,18 @@ v4=0 and ''
 
 5. git push orgin1 master
 
-6. 
+
+
+其他
+
+git status 查看当前目录下所有问题
+
+git add . 收集当前目录下所有问题
+
+git commit -m ‘03’ 给当前目录写下提交记录
+
+git push origin master
+
+
+
+ 
