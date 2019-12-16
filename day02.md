@@ -44,6 +44,8 @@ print(template)
 
 ![image-20191212131652973](C:\Users\davidlu\AppData\Roaming\Typora\typora-user-images\image-20191212131652973.png)
 
+![image-20191215210013171](C:\Users\davidlu\AppData\Roaming\Typora\typora-user-images\image-20191215210013171.png)
+
 数字转布尔值
 
 ```
